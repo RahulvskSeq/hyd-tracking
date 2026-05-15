@@ -1,16 +1,16 @@
 export const DEFAULT_USERS = {
-  admin:  { id:'admin',  name:'Admin',   pass:'admin123',  role:'admin',    color:'#a78bfa', ini:'AD', url:null, url2:null, url_outstanding:null },
-  pranav: { id:'pranav', name:'Pranav',  pass:'pranav123', role:'salesman', color:'#818cf8', ini:'PR',
+  admin:  { id:'admin',  name:'Admin',   pass:'admin@hyd',  role:'admin',    color:'#a78bfa', ini:'AD', url:null, url2:null, url_outstanding:null },
+  pranav: { id:'hyd', name:'Hyd',  pass:'hyd@123', role:'salesman', color:'#818cf8', ini:'PR',
     url:'https://docs.google.com/spreadsheets/d/e/2PACX-1vTWXoueg29sm1JU6nqbX4kFRRqJsUxDp_M6eqOBBQnvVDVSmox4mwQxVSywsmlsDqrAe0279hdKQiAx/pub?gid=76669755&single=true&output=csv',
     url2:null, url_outstanding:null,
   },
-  udai:    { id:'udai',    name:'Udai',           pass:'udai123',    role:'salesman', color:'#34d399', ini:'UD', url:'', url2:null, url_outstanding:null },
-  ratish:  { id:'ratish',  name:'Ratish',         pass:'ratish123',  role:'salesman', color:'#f472b6', ini:'RT', url:'', url2:null, url_outstanding:null },
-  joseph:  { id:'joseph',  name:'Joseph',         pass:'joseph123',  role:'salesman', color:'#fb923c', ini:'JO', url:'', url2:null, url_outstanding:null },
-  senthil: { id:'senthil', name:'Senthil',        pass:'senthil123', role:'salesman', color:'#fbbf24', ini:'SE', url:'', url2:null, url_outstanding:null },
-  sahil:   { id:'sahil',   name:'Sahil',          pass:'sahil123',   role:'salesman', color:'#22d3ee', ini:'SH', url:'', url2:null, url_outstanding:null },
-  rakesh:  { id:'rakesh',  name:'Rakesh Boriwal', pass:'rakesh123',  role:'salesman', color:'#e879f9', ini:'RB', url:'', url2:null, url_outstanding:null },
-  shivraj: { id:'shivraj', name:'Shivraj',        pass:'shivraj123', role:'salesman', color:'#f87171', ini:'SJ', url:'', url2:null, url_outstanding:null },
+  // udai:    { id:'udai',    name:'Udai',           pass:'udai123',    role:'salesman', color:'#34d399', ini:'UD', url:'', url2:null, url_outstanding:null },
+  // ratish:  { id:'ratish',  name:'Ratish',         pass:'ratish123',  role:'salesman', color:'#f472b6', ini:'RT', url:'', url2:null, url_outstanding:null },
+  // joseph:  { id:'joseph',  name:'Joseph',         pass:'joseph123',  role:'salesman', color:'#fb923c', ini:'JO', url:'', url2:null, url_outstanding:null },
+  // senthil: { id:'senthil', name:'Senthil',        pass:'senthil123', role:'salesman', color:'#fbbf24', ini:'SE', url:'', url2:null, url_outstanding:null },
+  // sahil:   { id:'sahil',   name:'Sahil',          pass:'sahil123',   role:'salesman', color:'#22d3ee', ini:'SH', url:'', url2:null, url_outstanding:null },
+  // rakesh:  { id:'rakesh',  name:'Rakesh Boriwal', pass:'rakesh123',  role:'salesman', color:'#e879f9', ini:'RB', url:'', url2:null, url_outstanding:null },
+  // shivraj: { id:'shivraj', name:'Shivraj',        pass:'shivraj123', role:'salesman', color:'#f87171', ini:'SJ', url:'', url2:null, url_outstanding:null },
 };
 
 // ── MONTHS (newest first, col order in sheet) ─────────────────────────────
